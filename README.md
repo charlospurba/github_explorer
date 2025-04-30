@@ -111,15 +111,19 @@ Aplikasi memerlukan **Personal Access Token** untuk autentikasi ke GitHub API. I
 ## Tampilan 
 
 **1. Tampilan Login**
+
 ![image](https://github.com/user-attachments/assets/906bb396-c884-40df-9871-b12d9b72075a)
 
 **2. Home Screen**
+
 ![image](https://github.com/user-attachments/assets/400eda2d-af2a-4337-87da-d1a4dbc4a34f)
 
 **3. Profile Screen**
+
 ![image](https://github.com/user-attachments/assets/66bd7c7e-786b-40b1-8c4c-a21ba8688cde)
 
 **4. Detail Repository Screen**
+
 ![image](https://github.com/user-attachments/assets/1999bbe8-0297-40b3-821e-9c6bb00d06d7)
 
 
